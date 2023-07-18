@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2023-07-04T20:18:06.797116200Z</date>
-  <millis>1688501886797</millis>
-  <nanos>116200</nanos>
+  <date>2023-07-05T09:16:16.850521200Z</date>
+  <millis>1688548576850</millis>
+  <nanos>521200</nanos>
   <sequence>0</sequence>
   <logger>Zadanie3</logger>
   <level>INFO</level>
@@ -12,5 +12,29 @@
   <method>main</method>
   <thread>1</thread>
   <message>Калькулятор запущен.</message>
+</record>
+<record>
+  <date>2023-07-05T09:16:23.501527200Z</date>
+  <millis>1688548583501</millis>
+  <nanos>527200</nanos>
+  <sequence>1</sequence>
+  <logger>Zadanie3</logger>
+  <level>INFO</level>
+  <class>Zadanie3</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>15.0 + 25.0 = 40.0</message>
+</record>
+<record>
+  <date>2023-07-05T09:16:23.503014700Z</date>
+  <millis>1688548583503</millis>
+  <nanos>14700</nanos>
+  <sequence>2</sequence>
+  <logger>Zadanie3</logger>
+  <level>INFO</level>
+  <class>Zadanie3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат: 40.0</message>
 </record>
 </log>
